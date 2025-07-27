@@ -72,7 +72,7 @@ These slicers enable users to perform custom analysis and isolate key metrics by
 
 ## 🔗  Online Report
 
-If the report is published online (via Power BI "Publish to Web"), you can add the link here:
+You can view the full report via this below link:
 
 [View Report Online](https://app.powerbi.com/view?r=eyJrIjoiYTIyYzI4ZmItZDU0ZS00ZmU3LTgxNzctZjVhMzFlZmIwNDIwIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9)
 
